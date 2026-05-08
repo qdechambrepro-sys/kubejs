@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "starcatcher:amethystback"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 4,
+        "id": "minecraft:amethyst_shard"
+      }
+    },
+    {
+      "item": {
+        "count": 1,
+        "id": "ars_nouveau:source_gem"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

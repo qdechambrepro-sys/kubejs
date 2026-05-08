@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "starcatcher:thunder_bass"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 1,
+        "id": "kubejs:storm_essence"
+      }
+    },
+    {
+      "item": {
+        "count": 2,
+        "id": "minecraft:redstone"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

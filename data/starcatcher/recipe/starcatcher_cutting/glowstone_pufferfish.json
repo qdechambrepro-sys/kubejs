@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "starcatcher:glowstone_pufferfish"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 4,
+        "id": "minecraft:glowstone_dust"
+      }
+    },
+    {
+      "item": {
+        "count": 1,
+        "id": "minecraft:pufferfish"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

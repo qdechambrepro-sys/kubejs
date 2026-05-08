@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "starcatcher:voidbiter"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 1,
+        "id": "minecraft:ender_pearl"
+      }
+    },
+    {
+      "item": {
+        "count": 1,
+        "id": "forbidden_arcanus:dark_matter"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

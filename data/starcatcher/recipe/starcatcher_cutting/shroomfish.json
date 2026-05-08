@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "starcatcher:shroomfish"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 1,
+        "id": "kubejs:swamp_essence"
+      }
+    },
+    {
+      "item": {
+        "count": 4,
+        "id": "minecraft:brown_mushroom"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

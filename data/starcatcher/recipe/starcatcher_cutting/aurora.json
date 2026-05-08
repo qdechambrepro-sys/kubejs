@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "starcatcher:aurora"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 1,
+        "id": "kubejs:storm_essence"
+      }
+    },
+    {
+      "item": {
+        "count": 1,
+        "id": "ars_nouveau:source_gem_block"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}
