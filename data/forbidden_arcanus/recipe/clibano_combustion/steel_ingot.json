@@ -1,0 +1,23 @@
+{
+  "type": "forbidden_arcanus:clibano_combustion",
+  "category": "misc",
+  "cooking_time": 300,
+  "experience": 1,
+  "fire_type": "fire",
+  "ingredients": {
+    "first": {
+      "item": "minecraft:iron_ingot"
+    },
+    "second": {
+      "item": "minecraft:charcoal"
+    }
+  },
+  "residue": {
+    "type": "forbidden_arcanus:iron",
+    "chance": 0.1
+  },
+  "result": {
+    "count": 1,
+    "id": "hazennstuff:steel_ingot"
+  }
+}

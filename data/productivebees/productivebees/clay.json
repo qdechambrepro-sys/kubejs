@@ -1,0 +1,7 @@
+{
+  "primaryColor": "#adb7d3",
+  "secondaryColor": "#3a3c41",
+  "flowerBlock": "minecraft:clay",
+  "createComb": true,
+  "renderer": "default"  
+}

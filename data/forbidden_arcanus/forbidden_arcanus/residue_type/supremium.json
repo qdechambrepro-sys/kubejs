@@ -1,0 +1,12 @@
+{
+  "combine_info": {
+    "required_amount": 9,
+    "result": {
+      "count": 1,
+      "id": "mysticalagriculture:supremium_block"
+    }
+  },
+  "name": {
+    "translate": "residue.forbidden_arcanus.supremium"
+  }
+}

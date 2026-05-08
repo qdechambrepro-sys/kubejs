@@ -1,0 +1,18 @@
+{
+  "type": "forbidden_arcanus:clibano_combustion",
+  "category": "misc",
+  "cooking_time": 150,
+  "experience": 1,
+  "fire_type": "fire",
+  "ingredients": {
+    "item": "hazennstuff:shadestone"
+  },
+  "residue": {
+    "type": "forbidden_arcanus:demonite",
+    "chance": 0.2
+  },
+  "result": {
+    "count": 1,
+    "id": "hazennstuff:demonite_ingot"
+  }
+}

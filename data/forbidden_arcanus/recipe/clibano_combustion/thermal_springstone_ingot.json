@@ -1,0 +1,19 @@
+{
+  "type": "forbidden_arcanus:clibano_combustion",
+  "category": "misc",
+  "cooking_time": 150,
+  "experience": 1,
+  "fire_type": "fire",
+  "ingredients": {
+      "item": "eternal_starlight:thermal_springstone"
+
+  },
+  "residue": {
+    "type": "forbidden_arcanus:thermal_springstone",
+    "chance": 0.2
+  },
+  "result": {
+    "count": 1,
+    "id": "eternal_starlight:thermal_springstone_ingot"
+  }
+}

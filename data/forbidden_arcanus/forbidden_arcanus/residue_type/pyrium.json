@@ -1,0 +1,12 @@
+{
+  "combine_info": {
+    "required_amount": 9,
+    "result": {
+      "count": 1,
+      "id": "irons_spellbooks:pyrium_ingot"
+    }
+  },
+  "name": {
+    "translate": "residue.forbidden_arcanus.pyrium"
+  }
+}

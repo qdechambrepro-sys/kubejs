@@ -1,0 +1,8 @@
+{
+  "type": "productivebees:bee_conversion",
+  "source": "productivebees:lapis",
+  "ingredient": {
+    "item": "kubejs:ars_symbol"
+  },
+  "result": "productivebees:magefleur"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "mysticalagriculture:awakening",
+  "transfer_components": true,
+  "essences": [
+    {
+      "id": "ars_nouveau:air_essence",
+      "count": 40
+    },
+    {
+      "id": "ars_nouveau:earth_essence",
+      "count": 40
+    },
+    {
+      "id": "ars_nouveau:water_essence",
+      "count": 40
+    },
+    {
+      "id": "ars_nouveau:fire_essence",
+      "count": 40
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:supremium_boots"
+  },
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:awakened_supremium_gemstone"
+    },
+    {
+      "item": "mysticalagriculture:awakened_supremium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:awakened_supremium_gemstone"
+    },
+    {
+      "item": "mysticalagriculture:awakened_supremium_ingot"
+    }
+  ],
+  "result": {
+    "id": "mysticalagriculture:awakened_supremium_boots"
+  }
+}

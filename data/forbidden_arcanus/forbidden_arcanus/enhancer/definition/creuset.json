@@ -1,0 +1,12 @@
+{
+  "description": {
+    "clibano": {
+      "text": "Aucun effet."
+    },
+    "hephaestus_forge": {
+      "text": "Aucun effet."
+    }
+  },
+  "display_item": "kubejs:creuset",
+  "effects": []
+}

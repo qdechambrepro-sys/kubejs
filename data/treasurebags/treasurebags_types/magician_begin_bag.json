@@ -1,0 +1,12 @@
+{
+  "bag_color": "#fdf55f",
+  "bag_overlay_color": "#e9b115",
+  "bag_string_color": "#b045e5",
+  "display_name": "§6Sac de démarrage Magicien",
+  "drops_from_groups": [],
+  "group": "default",
+  "loot_table": "treasurebags:bags/magician_begin_bag",
+  "rarity": "common",
+  "visible": true
+}
+

@@ -1,0 +1,12 @@
+{
+  "bag_color": "#c9e046",
+  "bag_overlay_color": "#c0410c",
+  "bag_string_color": "#8ba415",
+  "display_name": "§6Sac de démarrage Agriculteur",
+  "drops_from_groups": [],
+  "group": "default",
+  "loot_table": "treasurebags:bags/agriculteur_begin_bag",
+  "rarity": "common",
+  "visible": true
+}
+

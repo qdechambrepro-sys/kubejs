@@ -1,0 +1,19 @@
+{
+  "type": "forbidden_arcanus:clibano_combustion",
+  "category": "misc",
+  "cooking_time": 150,
+  "experience": 1,
+  "fire_type": "fire",
+  "ingredients": {
+      "tag": "c:ores/deepsilver"
+
+  },
+  "residue": {
+    "type": "forbidden_arcanus:deepsilver",
+    "chance": 0.2
+  },
+  "result": {
+    "count": 1,
+    "id": "eternal_starlight:deepsilver_ingot"
+  }
+}

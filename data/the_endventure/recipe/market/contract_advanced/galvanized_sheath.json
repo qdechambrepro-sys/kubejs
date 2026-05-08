@@ -1,0 +1,20 @@
+{
+  "conditions": [
+      { "type": "neoforge:false" }
+  ]
+}
+/* {
+  "type": "farmingforblockheads:market",
+  "preset": "the_endventure:advanced",
+  "category": "the_endventure:contract_advanced",
+  "payment": {
+    "ingredient": {
+      "item": "kubejs:token_advanced"
+    },
+    "count": 1
+  },
+  "result": {
+    "count": 1,
+    "item": "hazennstuff:galvanized_sheath"
+  }
+} */

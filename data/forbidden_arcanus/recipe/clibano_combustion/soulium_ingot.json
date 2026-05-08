@@ -1,0 +1,24 @@
+{
+  "type": "forbidden_arcanus:clibano_combustion",
+  "category": "misc",
+  "cooking_time": 150,
+  "enhancer": "forbidden_arcanus:artisan_relic",
+  "experience": 1,
+  "fire_type": "fire",
+  "ingredients": {
+    "first": {
+      "item": "mysticalagriculture:awakened_supremium_ingot"
+    },
+    "second": {
+      "item": "mysticalagriculture:soulium_essence"
+    }
+  },
+  "residue": {
+    "type": "forbidden_arcanus:soulium",
+    "chance": 0.2
+  },
+  "result": {
+    "count": 1,
+    "id": "mysticalagriculture:soulium_ingot"
+  }
+}
