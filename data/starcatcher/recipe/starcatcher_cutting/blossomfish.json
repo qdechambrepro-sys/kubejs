@@ -1,0 +1,25 @@
+﻿{
+    "type":  "farmersdelight:cutting",
+    "ingredients":  [
+                        {
+                            "item":  "starcatcher:blossomfish"
+                        }
+                    ],
+    "result":  [
+                   {
+                       "item":  {
+                                    "count":  3,
+                                    "id":  "minecraft:pink_dye"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  1,
+                                    "id":  "minecraft:cherry_leaves"
+                                }
+                   }
+               ],
+    "tool":  {
+                 "tag":  "c:tools/knife"
+             }
+}

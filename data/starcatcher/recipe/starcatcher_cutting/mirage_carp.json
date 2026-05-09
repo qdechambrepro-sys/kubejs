@@ -1,0 +1,31 @@
+﻿{
+    "type":  "farmersdelight:cutting",
+    "ingredients":  [
+                        {
+                            "item":  "starcatcher:mirage_carp"
+                        }
+                    ],
+    "result":  [
+                   {
+                       "item":  {
+                                    "count":  2,
+                                    "id":  "minecraft:glass"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  1,
+                                    "id":  "minecraft:ender_pearl"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  2,
+                                    "id":  "starcatcher:fish_bones"
+                                }
+                   }
+               ],
+    "tool":  {
+                 "tag":  "c:tools/knife"
+             }
+}

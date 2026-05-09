@@ -1,0 +1,25 @@
+﻿{
+    "type":  "farmersdelight:cutting",
+    "ingredients":  [
+                        {
+                            "item":  "starcatcher:conch"
+                        }
+                    ],
+    "result":  [
+                   {
+                       "item":  {
+                                    "count":  4,
+                                    "id":  "minecraft:bone_meal"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  1,
+                                    "id":  "minecraft:nautilus_shell"
+                                }
+                   }
+               ],
+    "tool":  {
+                 "tag":  "c:tools/knife"
+             }
+}

@@ -1,0 +1,25 @@
+{
+    "type":  "farmersdelight:cutting",
+    "ingredients":  [
+                        {
+                            "item":  "starcatcher:sage_catfish"
+                        }
+                    ],
+    "result":  [
+                   {
+                       "item":  {
+                                    "count":  2,
+                                    "id":  "minecraft:green_dye"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  5,
+                                    "id":  "starcatcher:fish_bones"
+                                }
+                   }
+               ],
+    "tool":  {
+                 "item": "kubejs:couperet"
+             }
+}

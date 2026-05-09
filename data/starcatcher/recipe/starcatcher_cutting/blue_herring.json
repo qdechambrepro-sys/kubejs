@@ -1,0 +1,25 @@
+{
+    "type":  "farmersdelight:cutting",
+    "ingredients":  [
+                        {
+                            "item":  "starcatcher:blue_herring"
+                        }
+                    ],
+    "result":  [
+                   {
+                       "item":  {
+                                    "count":  3,
+                                    "id":  "minecraft:blue_dye"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  3,
+                                    "id":  "starcatcher:fish_bones"
+                                }
+                   }
+               ],
+    "tool":  {
+                 "item": "kubejs:couperet"
+             }
+}

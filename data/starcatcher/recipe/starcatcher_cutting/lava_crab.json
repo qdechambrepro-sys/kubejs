@@ -1,0 +1,31 @@
+﻿{
+    "type":  "farmersdelight:cutting",
+    "ingredients":  [
+                        {
+                            "item":  "starcatcher:lava_crab"
+                        }
+                    ],
+    "result":  [
+                   {
+                       "item":  {
+                                    "count":  2,
+                                    "id":  "minecraft:magma_cream"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  1,
+                                    "id":  "starcatcher:lava_crab_claw"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  1,
+                                    "id":  "starcatcher:fish_bones"
+                                }
+                   }
+               ],
+    "tool":  {
+                 "tag":  "c:tools/knife"
+             }
+}

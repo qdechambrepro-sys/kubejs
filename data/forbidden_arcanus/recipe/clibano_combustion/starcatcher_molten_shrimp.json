@@ -1,0 +1,14 @@
+{
+  "type": "forbidden_arcanus:clibano_combustion",
+  "category": "misc",
+  "cooking_time": 150,
+  "experience": 1,
+  "fire_type": "fire",
+  "ingredients": {
+    "item": "starcatcher:molten_shrimp"
+  },
+  "result": {
+    "count": 3,
+    "id": "minecraft:blaze_powder"
+  }
+}

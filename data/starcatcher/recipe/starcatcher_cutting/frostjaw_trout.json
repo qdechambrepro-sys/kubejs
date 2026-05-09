@@ -9,12 +9,12 @@
     {
       "item": {
         "count": 2,
-        "id": "minecraft:ice"
+        "id": "kubejs:ice_essence"
       }
     },
     {
       "item": {
-        "count": 1,
+        "count": 2,
         "id": "starcatcher:fish_bones"
       }
     }

@@ -1,0 +1,25 @@
+{
+    "type":  "farmersdelight:cutting",
+    "ingredients":  [
+                        {
+                            "item":  "starcatcher:joel"
+                        }
+                    ],
+    "result":  [
+                   {
+                       "item":  {
+                                    "count":  1,
+                                    "id":  "minecraft:emerald"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  7,
+                                    "id":  "starcatcher:fish_bones"
+                                }
+                   }
+               ],
+    "tool":  {
+                 "item": "kubejs:couperet"
+             }
+}

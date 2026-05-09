@@ -1,0 +1,25 @@
+{
+    "type":  "farmersdelight:cutting",
+    "ingredients":  [
+                        {
+                            "item":  "starcatcher:fossilized_angelfish"
+                        }
+                    ],
+    "result":  [
+                   {
+                       "item":  {
+                                    "count":  1,
+                                    "id":  "minecraft:bone_block"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  5,
+                                    "id":  "starcatcher:fish_bones"
+                                }
+                   }
+               ],
+    "tool":  {
+                 "item": "kubejs:couperet"
+             }
+}

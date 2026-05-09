@@ -1,0 +1,31 @@
+{
+    "type":  "farmersdelight:cutting",
+    "ingredients":  [
+                        {
+                            "item":  "starcatcher:lush_pike"
+                        }
+                    ],
+    "result":  [
+                   {
+                       "item":  {
+                                    "count":  2,
+                                    "id":  "minecraft:moss_block"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  2,
+                                    "id":  "minecraft:glow_berries"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  4,
+                                    "id":  "starcatcher:fish_bones"
+                                }
+                   }
+               ],
+    "tool":  {
+                 "item": "kubejs:couperet"
+             }
+}

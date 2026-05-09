@@ -17,9 +17,15 @@
         "count": 2,
         "id": "minecraft:blue_ice"
       }
+    },
+    {
+      "item": {
+        "count": 5,
+        "id": "starcatcher:fish_bones"
+      }
     }
   ],
   "tool": {
-    "tag": "c:tools/knife"
+    "item": "kubejs:couperet"
   }
 }

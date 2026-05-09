@@ -1,0 +1,14 @@
+{
+  "type": "forbidden_arcanus:clibano_combustion",
+  "category": "misc",
+  "cooking_time": 150,
+  "experience": 1,
+  "fire_type": "fire",
+  "ingredients": {
+    "item": "starcatcher:scorchfish"
+  },
+  "result": {
+    "count": 2,
+    "id": "minecraft:blaze_powder"
+  }
+}

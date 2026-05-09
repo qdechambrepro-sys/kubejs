@@ -1,0 +1,25 @@
+﻿{
+    "type":  "farmersdelight:cutting",
+    "ingredients":  [
+                        {
+                            "item":  "starcatcher:chorus_crab"
+                        }
+                    ],
+    "result":  [
+                   {
+                       "item":  {
+                                    "count":  3,
+                                    "id":  "minecraft:chorus_fruit"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  1,
+                                    "id":  "minecraft:popped_chorus_fruit"
+                                }
+                   }
+               ],
+    "tool":  {
+                 "tag":  "c:tools/knife"
+             }
+}

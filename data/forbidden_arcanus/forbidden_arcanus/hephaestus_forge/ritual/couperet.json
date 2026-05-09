@@ -1,0 +1,44 @@
+{
+  "essences": {
+    "aureal": 250,
+    "blood": 750,
+    "souls": 2
+  },
+  "inputs": [
+    {
+      "amount": 2,
+      "ingredient": {
+        "item": "starcatcher:fish_bones"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "minecraft:prismarine_shard"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    {
+      "amount": 1,
+      "ingredient": {
+        "item": "minecraft:amethyst_shard"
+      }
+    }
+  ],
+  "magic_circle": "forbidden_arcanus:create_item",
+  "main_ingredient": {
+    "tag": "c:tools/knife"
+  },
+  "result": {
+    "type": "forbidden_arcanus:create_item",
+    "result_item": {
+      "count": 1,
+      "id": "kubejs:couperet"
+    }
+  }
+}

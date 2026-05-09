@@ -1,0 +1,25 @@
+﻿{
+    "type":  "farmersdelight:cutting",
+    "ingredients":  [
+                        {
+                            "item":  "starcatcher:downfall_bream"
+                        }
+                    ],
+    "result":  [
+                   {
+                       "item":  {
+                                    "count":  1,
+                                    "id":  "minecraft:water_bucket"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  3,
+                                    "id":  "starcatcher:fish_bones"
+                                }
+                   }
+               ],
+    "tool":  {
+                 "tag":  "c:tools/knife"
+             }
+}

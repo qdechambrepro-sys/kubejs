@@ -17,6 +17,12 @@
         "count": 2,
         "id": "minecraft:glow_berries"
       }
+    },
+    {
+      "item": {
+        "count": 1,
+        "id": "starcatcher:fish_bones"
+      }
     }
   ],
   "tool": {

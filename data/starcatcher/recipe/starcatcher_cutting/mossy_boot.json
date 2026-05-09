@@ -1,0 +1,31 @@
+﻿{
+    "type":  "farmersdelight:cutting",
+    "ingredients":  [
+                        {
+                            "item":  "starcatcher:mossy_boot"
+                        }
+                    ],
+    "result":  [
+                   {
+                       "item":  {
+                                    "count":  1,
+                                    "id":  "minecraft:leather"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  1,
+                                    "id":  "minecraft:moss_block"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  2,
+                                    "id":  "starcatcher:fish_bones"
+                                }
+                   }
+               ],
+    "tool":  {
+                 "tag":  "c:tools/knife"
+             }
+}

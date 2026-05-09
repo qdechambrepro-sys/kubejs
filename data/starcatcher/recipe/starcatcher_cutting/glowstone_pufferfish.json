@@ -17,9 +17,15 @@
         "count": 1,
         "id": "minecraft:pufferfish"
       }
+    },
+    {
+      "item": {
+        "count": 1,
+        "id": "starcatcher:fish_bones"
+      }
     }
   ],
   "tool": {
-    "tag": "c:tools/knife"
+    "item": "kubejs:couperet"
   }
 }

@@ -17,9 +17,15 @@
         "count": 1,
         "id": "ars_nouveau:source_gem_block"
       }
+    },
+    {
+      "item": {
+        "count": 6,
+        "id": "starcatcher:fish_bones"
+      }
     }
   ],
   "tool": {
-    "tag": "c:tools/knife"
+    "item": "kubejs:couperet"
   }
 }

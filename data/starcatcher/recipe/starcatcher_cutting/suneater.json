@@ -1,0 +1,25 @@
+{
+    "type":  "farmersdelight:cutting",
+    "ingredients":  [
+                        {
+                            "item":  "starcatcher:suneater"
+                        }
+                    ],
+    "result":  [
+                   {
+                       "item":  {
+                                    "count":  4,
+                                    "id":  "minecraft:glowstone"
+                                }
+                   },
+                   {
+                       "item":  {
+                                    "count":  2,
+                                    "id":  "minecraft:blaze_powder"
+                                }
+                   }
+               ],
+    "tool":  {
+                 "item": "kubejs:couperet"
+             }
+}

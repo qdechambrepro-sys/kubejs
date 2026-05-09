@@ -17,9 +17,15 @@
         "count": 1,
         "id": "minecraft:blaze_rod"
       }
+    },
+    {
+      "item": {
+        "count": 6,
+        "id": "starcatcher:fish_bones"
+      }
     }
   ],
   "tool": {
-    "tag": "c:tools/knife"
+    "item": "kubejs:couperet"
   }
 }

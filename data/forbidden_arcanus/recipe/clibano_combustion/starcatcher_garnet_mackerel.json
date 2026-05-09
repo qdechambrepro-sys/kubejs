@@ -1,0 +1,14 @@
+{
+  "type": "forbidden_arcanus:clibano_combustion",
+  "category": "misc",
+  "cooking_time": 150,
+  "experience": 1,
+  "fire_type": "fire",
+  "ingredients": {
+    "item": "starcatcher:garnet_mackerel"
+  },
+  "result": {
+    "count": 4,
+    "id": "minecraft:redstone"
+  }
+}

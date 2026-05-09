@@ -17,6 +17,12 @@
         "count": 1,
         "id": "minecraft:echo_shard"
       }
+    },
+    {
+      "item": {
+        "count": 2,
+        "id": "starcatcher:fish_bones"
+      }
     }
   ],
   "tool": {
