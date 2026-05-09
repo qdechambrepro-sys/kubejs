@@ -8,24 +8,18 @@
   "result": [
     {
       "item": {
-        "count": 2,
+        "count": 9,
         "id": "minecraft:brown_mushroom"
       }
     },
     {
       "item": {
-        "count": 2,
+        "count": 9,
         "id": "minecraft:red_mushroom"
-      }
-    },
-    {
-      "item": {
-        "count": 2,
-        "id": "starcatcher:fish_bones"
       }
     }
   ],
   "tool": {
-    "item": "kubejs:couperet_mystique"
+    "tag": "c:tools/knife"
   }
 }

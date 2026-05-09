@@ -1,4 +1,4 @@
-{
+﻿{
     "type":  "farmersdelight:cutting",
     "ingredients":  [
                         {
@@ -9,7 +9,7 @@
                    {
                        "item":  {
                                     "count":  1,
-                                    "id":  "minecraft:sunflower"
+                                    "id":  "ars_nouveau:fire_essence"
                                 }
                    },
                    {
@@ -17,15 +17,9 @@
                                     "count":  2,
                                     "id":  "minecraft:glowstone_dust"
                                 }
-                   },
-                   {
-                       "item":  {
-                                    "count":  3,
-                                    "id":  "starcatcher:fish_bones"
-                                }
                    }
                ],
-    "tool": {
-    "item": "kubejs:couperet_mystique"
-  }
+    "tool":  {
+                 "tag":  "c:tools/knife"
+             }
 }

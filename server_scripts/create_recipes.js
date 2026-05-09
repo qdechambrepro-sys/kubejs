@@ -364,6 +364,88 @@ ServerEvents.recipes((event) => {
       id: "kubejs:storm_essence",
     },
   });
+  event.custom({
+    type: "mysticalagriculture:awakening",
+    essences: [
+      {
+        id: "ars_nouveau:fire_essence",
+        count: 24,
+      },
+      {
+        id: "ars_nouveau:air_essence",
+        count: 24,
+      },
+      {
+        id: "kubejs:incandescent_essence",
+        count: 12,
+      },
+      {
+        id: "kubejs:storm_essence",
+        count: 12,
+      },
+    ],
+    input: {
+      item: "minecraft:nether_star",
+    },
+    ingredients: [
+      {
+        item: "minecraft:glowstone",
+      },
+      {
+        item: "minecraft:amethyst_block",
+      },
+      {
+        item: "kubejs:steam_essence",
+      },
+      {
+        item: "kubejs:dust_essence",
+      },
+    ],
+    result: {
+      id: "kubejs:light_essence",
+    },
+  });
+  event.custom({
+    type: "mysticalagriculture:awakening",
+    essences: [
+      {
+        id: "ars_nouveau:earth_essence",
+        count: 24,
+      },
+      {
+        id: "ars_nouveau:water_essence",
+        count: 24,
+      },
+      {
+        id: "kubejs:dust_essence",
+        count: 12,
+      },
+      {
+        id: "kubejs:ice_essence",
+        count: 12,
+      },
+    ],
+    input: {
+      item: "minecraft:echo_shard",
+    },
+    ingredients: [
+      {
+        item: "minecraft:crying_obsidian",
+      },
+      {
+        item: "minecraft:ender_eye",
+      },
+      {
+        item: "kubejs:storm_essence",
+      },
+      {
+        item: "kubejs:magma_essence",
+      },
+    ],
+    result: {
+      id: "kubejs:void_essence",
+    },
+  });
   event.recipes.ars_nouveau.enchanting_apparatus(
     ["minecraft:sand", "minecraft:sand", "minecraft:sand", "minecraft:sand"], // input items
     "minecraft:gunpowder", // reagent
@@ -1203,6 +1285,33 @@ ServerEvents.recipes((event) => {
     "mysticalagriculture:earth_essence", // Arg 2: the item to replace
     "ars_nouveau:earth_essence", // Arg 3: the item to replace it with
     // Note: tagged fluid ingredients do not work on Fabric, but tagged items do.
+  );
+  event.replaceInput(
+    { input: "mysticalagriculture:air_essence" }, // Arg 1: the filter
+    "mysticalagriculture:air_essence", // Arg 2: the item to replace
+    "ars_nouveau:air_essence", // Arg 3: the item to replace it with
+    // Note: tagged fluid ingredients do not work on Fabric, but tagged items do.
+  );
+
+  event.replaceOutput(
+    { output: "mysticalagriculture:water_essence" },
+    "mysticalagriculture:water_essence",
+    "ars_nouveau:water_essence",
+  );
+  event.replaceOutput(
+    { output: "mysticalagriculture:fire_essence" },
+    "mysticalagriculture:fire_essence",
+    "ars_nouveau:fire_essence",
+  );
+  event.replaceOutput(
+    { output: "mysticalagriculture:earth_essence" },
+    "mysticalagriculture:earth_essence",
+    "ars_nouveau:earth_essence",
+  );
+  event.replaceOutput(
+    { output: "mysticalagriculture:air_essence" },
+    "mysticalagriculture:air_essence",
+    "ars_nouveau:air_essence",
   );
 
   // THIS LINE IS ALSO IMPORTANT!

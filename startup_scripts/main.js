@@ -328,6 +328,8 @@ StartupEvents.registry('item', event => {
   event.create('blood_essence').displayName("Essence de Sang").rarity("UNCOMMON").texture(`kubejs:item/blood_essence`)
   event.create('poison_essence').displayName("Essence de Poison").rarity("UNCOMMON").texture(`kubejs:item/poison_essence`)
   event.create('storm_essence').displayName("Essence de Tempete").rarity("RARE").texture(`kubejs:item/storm_essence`)
+  event.create('light_essence').displayName("Essence de Lumiere").rarity("RARE").texture(`kubejs:item/light_essence`)
+  event.create('void_essence').displayName("Essence du Vide").rarity("RARE").texture(`kubejs:item/void_essence`)
   
 event.create('magic_candle').displayName("§5Bougie Arcanique").rarity("UNCOMMON").texture(`kubejs:item/magic_candle`).tooltip("§7Une bougie imprégnée de magie, alliage des savoir-faire des magiciens et des apiculteurs.")
 event.create('creuset').displayName("§5Creuset").rarity("RARE").texture(`kubejs:item/creuset`).tooltip("§7Un creuset mystique utilisé pour fondre dans un Clibanion, résultat de la collaboration entre agriculteur et magiciens.")
