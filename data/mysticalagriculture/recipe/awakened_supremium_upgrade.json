@@ -2,19 +2,19 @@
   "type": "mysticalagriculture:awakening",
   "essences": [
     {
-      "id": "ars_nouveau:air_essence",
+      "id": "kubejs:storm_essence",
       "count": 20
     },
     {
-      "id": "ars_nouveau:earth_essence",
+      "id": "kubejs:magma_essence",
       "count": 20
     },
     {
-      "id": "ars_nouveau:water_essence",
+      "id": "kubejs:swamp_essence",
       "count": 20
     },
     {
-      "id": "ars_nouveau:fire_essence",
+      "id": "kubejs:dust_essence",
       "count": 20
     }
   ],

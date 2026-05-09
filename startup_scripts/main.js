@@ -299,6 +299,7 @@ StartupEvents.registry('item', event => {
   event.create('magical_imbued_ingot').displayName("§5Lingot de métal magique").rarity("UNCOMMON")
   event.create('dark_ingot').displayName("§5Lingot d'or noir").rarity("UNCOMMON")
   event.create('couperet').displayName("Couperet à poisson").rarity("RARE").texture(`kubejs:item/couperet`)
+  event.create('couperet_mystique').displayName("Couperet à poisson mystique").rarity("EPIC").texture(`kubejs:item/couperet_mystique`)
   
 //JOB ITEMS
   event.create('certificat_magicien').displayName("Certificat de Magicien").rarity("COMMON").texture(`kubejs:item/certificat_magicien`)

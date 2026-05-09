@@ -1,4 +1,4 @@
-﻿{
+{
     "type":  "farmersdelight:cutting",
     "ingredients":  [
                         {
@@ -19,7 +19,7 @@
                                 }
                    }
                ],
-    "tool":  {
-                 "tag":  "c:tools/knife"
-             }
+    "tool": {
+    "item": "kubejs:couperet"
+  }
 }

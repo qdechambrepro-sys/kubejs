@@ -19,7 +19,7 @@
                                 }
                    }
                ],
-    "tool":  {
-                 "item": "kubejs:couperet"
-             }
+    "tool": {
+    "item": "kubejs:couperet_mystique"
+  }
 }
