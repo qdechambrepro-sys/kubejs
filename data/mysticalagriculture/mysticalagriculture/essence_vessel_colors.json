@@ -1,2 +1,21 @@
 {
+  "mysticalagriculture:air_essence": "#DAD64D",
+  "mysticalagriculture:earth_essence": "#54DA4D",
+  "mysticalagriculture:water_essence": "#4D7EDA",
+  "mysticalagriculture:fire_essence": "#DA4D4D",
+  "ars_nouveau:air_essence": "#7E9C0D",
+  "ars_nouveau:earth_essence": "#0F7936",
+  "ars_nouveau:water_essence": "#2F60D3",
+  "ars_nouveau:fire_essence": "#BF132B",
+  "kubejs:ice_essence": "#5A9CF3",
+  "kubejs:incandescent_essence": "#FB9477",
+  "kubejs:dust_essence": "#9C7A78",
+  "kubejs:swamp_essence": "#925014",
+  "kubejs:steam_essence": "#67718A",
+  "kubejs:magma_essence": "#9F0B0B",
+  "kubejs:blood_essence": "#490705",
+  "kubejs:poison_essence": "#7238A0",
+  "kubejs:storm_essence": "#2A3097",
+  "kubejs:light_essence": "#EFD367",
+  "kubejs:void_essence": "#6A31DB"
 }

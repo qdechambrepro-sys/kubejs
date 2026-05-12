@@ -1266,6 +1266,10 @@ ServerEvents.recipes((event) => {
     equipmentRecyclingData.gold,
   );
   //RECIPE MODIFICATIONS :
+  event.remove({ id: "mysticalagriculture:seed/crafting/ice" });
+  event.remove({ id: "mysticalagriculture:seed/infusion/ice" });
+  event.remove({ id: "mysticalagriculture:seed/reprocessor/ice" });
+
   event.replaceInput(
     { input: "mysticalagriculture:water_essence" }, // Arg 1: the filter
     "mysticalagriculture:water_essence", // Arg 2: the item to replace
